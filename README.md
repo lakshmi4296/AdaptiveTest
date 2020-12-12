@@ -19,8 +19,8 @@ Using the generative adversarial network, we train the model with large garment 
 <!-- Tables -->
 | Official Full Name	 | Student ID	| Work summary            |
 | -----------------------| -------------| ------------------------|
-| NACHIKETH DORAISWAMY   | A0215523N    | Data cleansing, Django application APIs, Github repository, Business rulesets, Intelligent QnA Solver, project report, user guide
 | LAKSHMI SUBRAMANIAN    | A0215255L    | Web scrapping, Data cleansing, Optimisation algorithm design and implementation, Ruleset implementation, project report, user guide
+| NACHIKETH DORAISWAMY   | A0215523N    | Data cleansing, Django application APIs, Github repository, Business rulesets, Intelligent QnA Solver, project report, user guide
 | YALAVARTI DHARMA TEJA  | A0215457A    | Front end UI development, Video Presentation, Acquiring data for Question Bank, Initial draft of MR rules to generate questions based on student performance, user guide, project report
 
 # SECTION 4 : PROJECT VIDEO DEMONSTRATION
@@ -29,7 +29,7 @@ Using the generative adversarial network, we train the model with large garment 
 
 # SECTION 5 : USER GUIDE
 
-https://github.com/Doraiswamy/Adaptive-Test/tree/master/UserGuide
+https://github.com/lakshmi4296/AdaptiveTest/tree/main/UserGuide
 
 **Back-end** 
 
@@ -56,4 +56,4 @@ Open the browser of your choice. In this case, we are using Mozilla Firefox. Mak
 
 # SECTION 6 : PROJECT REPORT / PAPER
 
-https://github.com/Doraiswamy/Adaptive-Test/tree/master/ProjectReport
+https://github.com/lakshmi4296/AdaptiveTest/tree/main/ProjectReport
