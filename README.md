@@ -25,7 +25,7 @@ Using the generative adversarial network, we train the model with large garment 
 
 # SECTION 4 : PROJECT VIDEO DEMONSTRATION
 
-[video link](https://github.com/Doraiswamy/GAN-fashion-set-generator/tree/master/Video)
+[video link](https://github.com/lakshmi4296/AdaptiveTest/tree/main/Video)
 
 # SECTION 5 : USER GUIDE
 
@@ -33,7 +33,7 @@ https://github.com/lakshmi4296/AdaptiveTest/tree/main/UserGuide
 
 **Back-end** 
 
-•	Clone the repository https://github.com/Doraiswamy/Adaptive-Test.git into a separate directory.
+•	Clone the repository https://github.com/lakshmi4296/AdaptiveTest.git into a separate directory.
 
 •	Choose the editor of your choice. For example, PyCharm, Spyder etc. Note that this is not a compulsory step, it is only if you want to view the code.
 
